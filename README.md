@@ -3,8 +3,8 @@ This Python script performs cluster analysis using different clustering techniqu
 
 ## Setup
 ### Requirements
-⋅⋅* Python 3.2.0<br/>
-⋅⋅* PyCaret library
+* Python 3.2.0<br/>
+* PyCaret library
 
 Install the required libraries using pip:
 ```
