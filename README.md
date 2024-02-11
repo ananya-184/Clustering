@@ -3,8 +3,8 @@ This Python script performs cluster analysis using different clustering techniqu
 
 ## Setup
 ### Requirements
-** Python 3.2.0<br/>
-** PyCaret library
+⋅⋅* Python 3.2.0<br/>
+⋅⋅* PyCaret library
 
 Install the required libraries using pip:
 ```
@@ -34,13 +34,13 @@ The following tasks are performed in the assignment:
 3. The best clustering algorithm and best no. of clusters are found using TOPSIS algorithm.
 4. **The best clusterin algorithm is SPECTRAL CLUSTERING and the best no. of clusters is 3.**
 
-         The plots, graphs etc are present in the notebook for better visualisation.
+   The plots, graphs etc are present in the notebook for better visualisation.
 
 ## Additional Notes
 
-** The dataset used in this script is the Iris dataset, which is a commonly used dataset for demonstration purposes.
-** Different preprocessing techniques such as normalization, transformation, and PCA are also applied to the data before clustering.
-** Ensure that you have sufficient computational resources as some operations, especially visualization of high-dimensional data, may require significant computational power.
+⋅⋅* The dataset used in this script is the Iris dataset, which is a commonly used dataset for demonstration purposes.
+⋅⋅* Different preprocessing techniques such as normalization, transformation, and PCA are also applied to the data before clustering.
+⋅⋅* Ensure that you have sufficient computational resources as some operations, especially visualization of high-dimensional data, may require significant computational power.
 
 ## Author
 Ananya Gupta
